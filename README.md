@@ -7,3 +7,5 @@ I plan to deploy this to the polygon L2 network to save on gas.
 
 In the future I may integrate this multisig wallet with DeFi applications, such as DEXs like uniswap, 
 lending protocols such as Aave, and maybe even yield aggregators such as yearn.finance.
+
+Tests are still being written (in python) for this 
